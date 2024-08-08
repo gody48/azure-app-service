@@ -4,4 +4,4 @@ platforms: python
 author: cephalin
 ---
 
-## Python sample for Azure App Service - Django
+## Python sample for Azure App Service
